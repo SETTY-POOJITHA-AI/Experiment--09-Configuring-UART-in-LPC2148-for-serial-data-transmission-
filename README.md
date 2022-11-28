@@ -71,11 +71,10 @@ int main (void)  {
 }
 
 ```
-### Output screen shots :
-
-![output 1](https://user-images.githubusercontent.com/93427581/203744586-1a2b2fef-2ad7-4011-9736-6bcc4e1d8c2a.jpeg)
-![output 2](h![output](https://user-images.githubusercontent.com/93427581/204199484-f9f5f9e9-5f1d-40f4-81df-603ab24acaf2.png)
-![output](https://user-images.githubusercontent.com/93427581/204199612-a9a99b64-62ab-4ed4-ba33-76b4a029881e.png)
+# Output screen shots :
+##![output 1](https://user-images.githubusercontent.com/93427581/204200255-61037993-9184-48c0-8889-1a4394413843.jpeg)
+![output 2](https://user-images.githubusercontent.com/93427581/204200322-a25bcb71-6a5b-423a-8f54-87c9cd4df79a.jpeg)
+![output](https://user-images.githubusercontent.com/93427581/204200387-c43a95c0-b71f-485a-9cee-6391ea95c83c.png)
 
 
 
