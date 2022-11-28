@@ -66,14 +66,18 @@ int main (void)  {
   while (1) {                          
   a=uart0_getc();
    uart0_putc(a);
-  }                               
+  }                              
+
 }
 
 ```
 ### Output screen shots :
 
 ![output 1](https://user-images.githubusercontent.com/93427581/203744586-1a2b2fef-2ad7-4011-9736-6bcc4e1d8c2a.jpeg)
-![output 2](https://user-images.githubusercontent.com/93427581/203744701-6ce945d3-3643-4d0c-9aed-211f9169d9c1.jpeg)
+![output 2](h![output](https://user-images.githubusercontent.com/93427581/204199484-f9f5f9e9-5f1d-40f4-81df-603ab24acaf2.png)
+![output](https://user-images.githubusercontent.com/93427581/204199612-a9a99b64-62ab-4ed4-ba33-76b4a029881e.png)
+
+
 
 ### Result :
 UART is programmed for transmitting serial data on virtual terminal  
